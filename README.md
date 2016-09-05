@@ -1,2 +1,2 @@
 # hello-world
-Csak egy repo a Hello Worldhoz...
+## Just a test repository
